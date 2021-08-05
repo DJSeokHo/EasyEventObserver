@@ -14,6 +14,6 @@ allprojects {
 # Step 2. Add the dependency:
 ```
 dependencies {
-  implementation 'com.github.DJSeokHo:EasyEventObserver:Tag'
+  implementation 'com.github.DJSeokHo:EasyEventObserver:1.0.6'
 }
 ```
