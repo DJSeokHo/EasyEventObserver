@@ -80,4 +80,4 @@ yourButton.setOnClickListener {
 }
 ```
 
-5. Done!
+5. Done! You can add observer in activity, fragment, custom view, just remember, remove observer when activity destroyed, fragment destroyed, that's means if you don't need observer any more in activity, fragment, customview, remove it~
